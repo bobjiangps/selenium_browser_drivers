@@ -11,5 +11,5 @@ chrome: ChromeDriver 74.0.3729.6, chrome version 74, url: https://sites.google.c
 
 ie: IEDriver 3.9.0, IE version 11.706.17134.0, url: https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
 
-safari: 
+safari: https://www.byincd.com/bobjiang/article-0174/
 
