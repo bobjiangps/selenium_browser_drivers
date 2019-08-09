@@ -7,7 +7,7 @@ edge: Release 17134, Microsoft Edge version supported: 17.17134, url: https://do
 
 firefox: geckodriver v0.24.0, Firefox version 67.0, url: https://github.com/mozilla/geckodriver/releases
 
-chrome: ChromeDriver 74.0.3729.6, chrome version 74, url: https://sites.google.com/a/chromium.org/chromedriver/downloads
+chrome: ChromeDriver 76.0.3809.68, chrome version 76.0.3809.100, url: https://sites.google.com/a/chromium.org/chromedriver/downloads; http://npm.taobao.org/mirrors/chromedriver/
 
 ie: IEDriver 3.9.0, IE version 11.706.17134.0, url: https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver
 
